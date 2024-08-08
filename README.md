@@ -33,6 +33,10 @@ The dataset contains information on car policies and safety ratings, including f
 The project successfully developed a predictive model with high precision and recall, providing valuable insights for insurance companies to assess risk and determine premiums.
 
 ## How to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/insurance-claim-prediction.git
+1. Clone the repository
+2. Navigate to the project directory
+3. Create a virtual environment (optional but recommended)
+4. Install the required dependencies
+5. Run the Jupyter Notebook to see the analysis and results
+
+
